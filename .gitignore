@@ -1,0 +1,13 @@
+# deps (the plugin builds with a Hermes checkout's vite — no local install)
+node_modules/
+
+# build / editor noise
+.DS_Store
+*.log
+*.tsbuildinfo
+.vscode/
+.idea/
+
+# local experiments
+scratch/
+*.local

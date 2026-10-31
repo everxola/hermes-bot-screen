@@ -1,0 +1,14 @@
+{
+  "name": "bot-screen",
+  "label": "Screen",
+  "description": "Live view of this profile's headless Bot Desktop (the screen the agent's computer_use tools drive) with the official Take over / Hand back lease — the same authenticated /api/display/ws bridge the Desktop app uses, no extra port.",
+  "icon": "Eye",
+  "version": "1.1.0",
+  "tab": {
+    "path": "/screen",
+    "position": "after:chat"
+  },
+  "slots": ["chat:bottom"],
+  "entry": "dist/index.js",
+  "css": "dist/style.css"
+}
