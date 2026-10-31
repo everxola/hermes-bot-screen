@@ -1,5 +1,7 @@
 # Bot Screen — Hermes dashboard plugin
 
+> **在 Hermes Dashboard 里直接观看并接管 Agent 的无头 Linux 桌面** —— Screen 标签页 + 聊天下方桌面条，走官方 `display.*` RPC 与鉴权的 `/api/display/ws` RFB 桥，不新增端口。默认只读；接管后可用鼠标、键盘与剪贴板，随时交还 Agent。详见文末[中文说明](#中文)。
+
 **See and drive your agent's headless desktop without leaving Hermes.** No extra
 port, no second login: a **Screen tab** and a **dock under the chat** both ride
 the official `display.*` RPC and the authenticated `/api/display/ws` RFB bridge.
