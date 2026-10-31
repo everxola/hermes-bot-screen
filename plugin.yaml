@@ -3,6 +3,6 @@ version: 1.1.0
 description: "Bot Screen — a dashboard tab (and chat-bottom dock) showing this profile's headless Bot Desktop live, over the built-in display.* methods and the authenticated /api/display/ws RFB bridge: read-only watching, Take over / Hand back on the shared lease, keyboard + mouse + clipboard, fit/1:1 and fullscreen. Dashboard-only: the UI ships in dashboard/ (manifest.json + dist/index.js); nothing runs in the agent runtime."
 author: "souf (https://github.com/sxuff)"
 license: MIT
-homepage: "https://github.com/sxuff/hermes-bot-screen"
+homepage: "https://github.com/everxola/hermes-bot-screen"
 provides_hooks: []
 provides_tools: []

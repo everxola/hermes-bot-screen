@@ -51,7 +51,7 @@ same viewer identity when it comes back.
 ## Install
 
 ```bash
-git clone https://github.com/sxuff/hermes-bot-screen.git \
+git clone https://github.com/everxola/hermes-bot-screen.git \
   "$HERMES_HOME/plugins/bot-screen"
 hermes plugins enable bot-screen      # user plugins only load when listed
 ```
@@ -165,7 +165,7 @@ grant; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 安装：
 
 ```bash
-git clone https://github.com/sxuff/hermes-bot-screen.git "$HERMES_HOME/plugins/bot-screen"
+git clone https://github.com/everxola/hermes-bot-screen.git "$HERMES_HOME/plugins/bot-screen"
 hermes plugins enable bot-screen
 ```
 
