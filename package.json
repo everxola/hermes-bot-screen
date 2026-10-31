@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "Hermes dashboard plugin: live view and take-over control of this profile's headless Bot Desktop (Screen tab + chat-bottom dock) over the official display.* methods and the authenticated /api/display/ws RFB bridge.",
   "license": "MIT",
-  "author": "souf (https://github.com/sxuff)",
+  "author": "everxola (https://github.com/everxola)",
   "homepage": "https://github.com/everxola/hermes-bot-screen",
   "repository": {
     "type": "git",

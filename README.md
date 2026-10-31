@@ -141,7 +141,7 @@ plugin. Before publishing:
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Copyright (c) 2026 souf.
+MIT — see [LICENSE](LICENSE). Copyright (c) 2026 everxola.
 
 `dashboard/dist/index.js` bundles [noVNC](https://github.com/novnc/noVNC)
 (`@novnc/novnc`, MPL-2.0). That bundled code is **not** covered by the MIT
