@@ -1,14 +1,11 @@
 # Bot Screen — Hermes dashboard plugin
 
-Live view of **this profile's headless Bot Desktop** — the screen the agent's
-`computer_use` tools drive — inside the Hermes web dashboard.
+**See and drive your agent's headless desktop without leaving Hermes.** No extra
+port, no second login: a **Screen tab** and a **dock under the chat** both ride
+the official `display.*` RPC and the authenticated `/api/display/ws` RFB bridge.
 
-It ships two surfaces over the built-in `display.*` methods and the
-authenticated `/api/display/ws` RFB bridge:
-
-- a **Screen tab** (`/screen`) with the full viewer, and
-- a collapsible **desktop strip under the chat terminal** (`chat:bottom` slot),
-  so the conversation and the agent's screen sit together.
+It is the same screen the agent's `computer_use` tools drive — so you can watch
+it work, grab the mouse when it stalls, and hand control straight back.
 
 Watching is **read-only**. **Take over** hands you the mouse, keyboard and
 clipboard while the agent's own screen actions stay paused; **Hand back**

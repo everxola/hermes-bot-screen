@@ -1,7 +1,7 @@
 {
   "name": "hermes-bot-screen",
   "version": "1.1.0",
-  "description": "Hermes dashboard plugin: live view and take-over control of this profile's headless Bot Desktop (Screen tab + chat-bottom dock) over the official display.* methods and the authenticated /api/display/ws RFB bridge.",
+  "description": "Watch and drive your agent's headless Linux desktop right inside the Hermes dashboard: a Screen tab plus a dock under the chat, over the official display.* RPC and the authenticated /api/display/ws RFB bridge.",
   "license": "MIT",
   "author": "everxola (https://github.com/everxola)",
   "homepage": "https://github.com/everxola/hermes-bot-screen",

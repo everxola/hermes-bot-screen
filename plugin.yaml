@@ -1,6 +1,6 @@
 name: bot-screen
 version: 1.1.0
-description: "Bot Screen — a dashboard tab (and chat-bottom dock) showing this profile's headless Bot Desktop live, over the built-in display.* methods and the authenticated /api/display/ws RFB bridge: read-only watching, Take over / Hand back on the shared lease, keyboard + mouse + clipboard, fit/1:1 and fullscreen. Dashboard-only: the UI ships in dashboard/ (manifest.json + dist/index.js); nothing runs in the agent runtime."
+description: "See and drive this profile's headless Bot Desktop without leaving the dashboard: a Screen tab plus a dock under the chat, over the official display.* RPC and the authenticated /api/display/ws RFB bridge. Read-only by default; Take over for mouse, keyboard and clipboard, Hand back to the agent. Dashboard-only — nothing runs in the agent runtime."
 author: "everxola (https://github.com/everxola)"
 license: MIT
 homepage: "https://github.com/everxola/hermes-bot-screen"
