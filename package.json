@@ -1,7 +1,7 @@
 {
   "name": "hermes-bot-screen",
   "version": "1.1.0",
-  "description": "Watch and drive your agent's headless Linux desktop right inside the Hermes dashboard: a Screen tab plus a dock under the chat, over the official display.* RPC and the authenticated /api/display/ws RFB bridge.",
+  "description": "在 Hermes 面板里观看并接管 Agent 的无头桌面：Screen 标签页 + 聊天桌面条，走官方 display.* RPC 与鉴权的 /api/display/ws RFB 桥，不新增端口。默认只读；可接管鼠标、键盘与剪贴板，随时交还 Agent。纯 Dashboard 插件，Agent 运行时里不跑任何东西。",
   "license": "MIT",
   "author": "everxola (https://github.com/everxola)",
   "homepage": "https://github.com/everxola/hermes-bot-screen",
